@@ -8,6 +8,7 @@ The engineering thesis is based on the design and construction of an unmanned ae
 
 Technologies:
 - Arduino IDE
+- C programming
 - Autodesk Inventor
 - Autodesk Eagle
 
